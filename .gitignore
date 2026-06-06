@@ -1,2 +1,7 @@
-# 忽略仓库内所有文件
-*
+# 忽略项目内不需要版本管理的文件
+# 跟踪：prd.md、TODO.md、design-system/、本 .gitignore
+.claude/
+.trae/
+AGENTS.md
+CLAUDE.md
+API文档/
